@@ -12,4 +12,3 @@ public class SayHello {
         System.out.println(", what a pleasure to meet you!");
     }
 }
-
